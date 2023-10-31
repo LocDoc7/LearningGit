@@ -1,0 +1,2 @@
+var Kevin = 10
+var Douglas = 20
